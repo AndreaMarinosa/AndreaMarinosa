@@ -10,7 +10,7 @@ My name is <strong>Andrea</strong> and I'm from Spain!
 <br/>
 Currently working on front-end projects with <strong>HTML</strong>, <strong>CSS</strong> and <strong>TypeScript</strong>.
 <br/>
-I'm also have a great passion for <strong>.Net</strong> environment with <strong>C#</strong>!
+I also have a great passion for <strong>.Net</strong> environment with <strong>C#</strong>!
 <hr/>
 <h2>⚡ Technologies</h2>
 <ul>
